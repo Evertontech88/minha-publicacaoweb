@@ -2,12 +2,14 @@
 head{ 
     background-color: blue;
     
-
+    padding: 15px;
 
 }
 
 p{
     text-align: 50%;
+    margin-left: 80px;
+    padding: 15px;
 }
 img{
     border-radius: 50%;
